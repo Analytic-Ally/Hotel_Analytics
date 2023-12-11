@@ -92,7 +92,7 @@ df.head()
 <a align= "centre" href="https://www.hackerrank.com/profile/tanugupta3367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/tanugupta3367" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">For support, email <a href="/">tushargupta8127@gmail.com</a> or join throught linkedin .</h3>
+<h3 align="center">For support, email <a href="/">tanugupta3367@gmail.com</a> or join throught linkedin .</h3>
 
 
 
